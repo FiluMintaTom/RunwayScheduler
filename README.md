@@ -65,6 +65,6 @@ README.md                 This file
 
 ## Author
 
-- Name: [Your Name]
-- Registration number: [Your Reg. No.]
+- Name: Filu Minta Tom
+- Registration number: AJC24CC012
 - Course: Design and Analysis of Algorithms
