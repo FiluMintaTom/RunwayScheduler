@@ -1,0 +1,51 @@
+Greedy schedule started: 12 flight(s), 2 runway(s)
+Flights are processed in order of earliest acceptable landing time.
+
+Step 1   LH401  (Heavy, window 0-25 min)
+    options: RWY 1 at 0, RWY 2 at 0
+    -> assigned to RWY 1 at 0 min (delay 0)
+
+Step 2   AI110  (Medium, window 1-20 min)
+    options: RWY 1 at 3, RWY 2 at 1
+    -> assigned to RWY 2 at 1 min (delay 0)
+
+Step 3   EK212  (Heavy, window 2-30 min)
+    options: RWY 1 at 2, RWY 2 at 3
+    -> assigned to RWY 1 at 2 min (delay 0)
+
+Step 4   6E330  (Light, window 3-18 min)
+    options: RWY 1 at 6, RWY 2 at 4
+    -> assigned to RWY 2 at 4 min (delay 1)
+
+Step 5   BA777  (Medium, window 4-28 min)
+    options: RWY 1 at 5, RWY 2 at 6
+    -> assigned to RWY 1 at 5 min (delay 1)
+
+Step 6   SQ215  (Medium, window 5-24 min)
+    options: RWY 1 at 7, RWY 2 at 6
+    -> assigned to RWY 2 at 6 min (delay 1)
+
+Step 7   QR640  (Heavy, window 6-35 min)
+    options: RWY 1 at 7, RWY 2 at 8
+    -> assigned to RWY 1 at 7 min (delay 1)
+
+Step 8   UK811  (Light, window 7-20 min)
+    options: RWY 1 at 11, RWY 2 at 9
+    -> assigned to RWY 2 at 9 min (delay 2)
+
+Step 9   AI305  (Medium, window 8-26 min)
+    options: RWY 1 at 10, RWY 2 at 11
+    -> assigned to RWY 1 at 10 min (delay 2)
+
+Step 10   EK604  (Medium, window 9-32 min)
+    options: RWY 1 at 12, RWY 2 at 11
+    -> assigned to RWY 2 at 11 min (delay 2)
+
+Step 11   6E118  (Light, window 10-22 min)
+    options: RWY 1 at 13, RWY 2 at 14
+    -> assigned to RWY 1 at 13 min (delay 3)
+
+Step 12   BA239  (Heavy, window 12-40 min)
+    options: RWY 1 at 15, RWY 2 at 13
+    -> assigned to RWY 2 at 13 min (delay 1)
+
